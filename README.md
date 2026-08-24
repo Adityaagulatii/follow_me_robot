@@ -8,7 +8,7 @@ A real-time autonomous person-following robot that locks onto a target using com
 
 Point the camera at yourself, press lock, and the robot follows you around the room. If you walk behind furniture, it searches. If you leave the room, it pursues. If it loses you completely, it stops and waits.
 
-https://github.com/user-attachments/assets/demo-placeholder
+https://github.com/Adityaagulatii/follow_me_robot/raw/main/demo.mp4
 
 ---
 
